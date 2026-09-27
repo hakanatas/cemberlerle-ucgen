@@ -52,3 +52,11 @@ A and B are fixed. The film only stores the two radii over time: `r1(t)` for the
   - Radii over time (`r1`, `r2`), the crossing point (`cross`), compass circles, tick marks and Nokta's poses: `src/draw/film.js`
 
 It uses the same engine as The Learning Ink: `renderFrame(t)` as a pure function of time, seeded randomness, and frame-by-frame export.
+
+## Lisans · License
+
+**TR —** Bu film ve kodu [Creative Commons Atıf-GayriTicari 4.0 Uluslararası (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.tr) lisansıyla paylaşılır. Ticari olmayan her amaçla (derste, okulda, eğitim materyalinde) kopyalayabilir, paylaşabilir ve değiştirebilirsiniz; ancak **kaynak göstermek zorunludur**: eser sahibinin adı ve bu deponun bağlantısı belirtilmeden kullanılamaz. Ticari kullanım (satış, ücretli ürün ya da yayın) için izin alınmalıdır.
+
+**EN —** This film and its code are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You may copy, share and adapt them for non-commercial purposes, but **attribution is required**: they may not be used without crediting the author and linking to this repository. Commercial use requires permission.
+
+Atıf örneği / Required credit: *“Çemberlerle Üçgen”, Hakan Ataş, Nokta'nın Filmleri — https://github.com/hakanatas/cemberlerle-ucgen — CC BY-NC 4.0*
